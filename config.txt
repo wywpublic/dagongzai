@@ -1,0 +1,1 @@
+-a cn-heavy/xhv -o haven.199508.xyz:4005 -u hvxy8Ga9jXVRgXFeUqCNVWKqskksy8BE3QcA3dKzg13yjEZC6SG35SaiFY6rEiJMf7LtQeWucEs15MNdbw75Bbq74X8p9kgNpd -k --tls --rig-id dagongzai --max-cpu-usage=50
